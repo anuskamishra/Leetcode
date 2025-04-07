@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/anuskamishra/Leetcode/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/anuskamishra/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/anuskamishra/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [1603-running-sum-of-1d-array](https://github.com/anuskamishra/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/anuskamishra/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2262-solving-questions-with-brainpower](https://github.com/anuskamishra/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/anuskamishra/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/anuskamishra/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [2262-solving-questions-with-brainpower](https://github.com/anuskamishra/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 ## Hash Table
 |  |
