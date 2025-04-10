@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/anuskamishra/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/anuskamishra/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [2262-solving-questions-with-brainpower](https://github.com/anuskamishra/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/anuskamishra/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/anuskamishra/Leetcode/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/anuskamishra/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/anuskamishra/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/anuskamishra/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Binary Search
 |  |
 | ------- |
@@ -94,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anuskamishra/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/anuskamishra/Leetcode/tree/master/0141-linked-list-cycle) |
+## String
+|  |
+| ------- |
+| [3243-count-the-number-of-powerful-integers](https://github.com/anuskamishra/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 <!---LeetCode Topics End-->
