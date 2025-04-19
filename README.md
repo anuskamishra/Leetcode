@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/anuskamishra/Leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/anuskamishra/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/anuskamishra/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/anuskamishra/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/anuskamishra/Leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/anuskamishra/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/anuskamishra/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/anuskamishra/Leetcode/tree/master/0268-missing-number) |
 | [2280-count-good-triplets-in-an-array](https://github.com/anuskamishra/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/anuskamishra/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/anuskamishra/Leetcode/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/anuskamishra/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/anuskamishra/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Tree
 |  |
 | ------- |
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anuskamishra/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/anuskamishra/Leetcode/tree/master/0141-linked-list-cycle) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/anuskamishra/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## String
 |  |
 | ------- |
