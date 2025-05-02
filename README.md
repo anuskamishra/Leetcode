@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/anuskamishra/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/anuskamishra/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0868-push-dominoes](https://github.com/anuskamishra/Leetcode/tree/master/0868-push-dominoes) |
 | [2262-solving-questions-with-brainpower](https://github.com/anuskamishra/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/anuskamishra/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/anuskamishra/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -140,11 +141,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anuskamishra/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/anuskamishra/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0868-push-dominoes](https://github.com/anuskamishra/Leetcode/tree/master/0868-push-dominoes) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/anuskamishra/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## String
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/anuskamishra/Leetcode/tree/master/0038-count-and-say) |
+| [0868-push-dominoes](https://github.com/anuskamishra/Leetcode/tree/master/0868-push-dominoes) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/anuskamishra/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Recursion
 |  |
