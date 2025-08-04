@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/anuskamishra/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/anuskamishra/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/anuskamishra/Leetcode/tree/master/0797-rabbits-in-forest) |
+| [0940-fruit-into-baskets](https://github.com/anuskamishra/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/anuskamishra/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/anuskamishra/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/anuskamishra/Leetcode/tree/master/1293-three-consecutive-odds) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/anuskamishra/Leetcode/tree/master/0268-missing-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/anuskamishra/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/anuskamishra/Leetcode/tree/master/0797-rabbits-in-forest) |
+| [0940-fruit-into-baskets](https://github.com/anuskamishra/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/anuskamishra/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/anuskamishra/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1500-count-largest-group](https://github.com/anuskamishra/Leetcode/tree/master/1500-count-largest-group) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/anuskamishra/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0940-fruit-into-baskets](https://github.com/anuskamishra/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1813-maximum-erasure-value](https://github.com/anuskamishra/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/anuskamishra/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/anuskamishra/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
