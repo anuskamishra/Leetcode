@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/anuskamishra/Leetcode/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/anuskamishra/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/anuskamishra/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0498-diagonal-traverse](https://github.com/anuskamishra/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/anuskamishra/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/anuskamishra/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0940-fruit-into-baskets](https://github.com/anuskamishra/Leetcode/tree/master/0940-fruit-into-baskets) |
@@ -468,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/anuskamishra/Leetcode/tree/master/0498-diagonal-traverse) |
 | [2048-build-array-from-permutation](https://github.com/anuskamishra/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/anuskamishra/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2479-meeting-rooms-iii](https://github.com/anuskamishra/Leetcode/tree/master/2479-meeting-rooms-iii) |
@@ -495,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/anuskamishra/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0498-diagonal-traverse](https://github.com/anuskamishra/Leetcode/tree/master/0498-diagonal-traverse) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/anuskamishra/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/anuskamishra/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/anuskamishra/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
