@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/anuskamishra/Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/anuskamishra/Leetcode/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/anuskamishra/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0368-largest-divisible-subset](https://github.com/anuskamishra/Leetcode/tree/master/0368-largest-divisible-subset) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/anuskamishra/Leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/anuskamishra/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/anuskamishra/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/anuskamishra/Leetcode/tree/master/0326-power-of-three) |
@@ -529,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/anuskamishra/Leetcode/tree/master/0070-climbing-stairs) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/anuskamishra/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/anuskamishra/Leetcode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/anuskamishra/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
