@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/anuskamishra/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/anuskamishra/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2529-range-product-queries-of-powers](https://github.com/anuskamishra/Leetcode/tree/master/2529-range-product-queries-of-powers) |
+| [2540-minimum-common-value](https://github.com/anuskamishra/Leetcode/tree/master/2540-minimum-common-value) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/anuskamishra/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2689-rearranging-fruits](https://github.com/anuskamishra/Leetcode/tree/master/2689-rearranging-fruits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/anuskamishra/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/anuskamishra/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2479-meeting-rooms-iii](https://github.com/anuskamishra/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/anuskamishra/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2540-minimum-common-value](https://github.com/anuskamishra/Leetcode/tree/master/2540-minimum-common-value) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/anuskamishra/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2689-rearranging-fruits](https://github.com/anuskamishra/Leetcode/tree/master/2689-rearranging-fruits) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/anuskamishra/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2280-count-good-triplets-in-an-array](https://github.com/anuskamishra/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/anuskamishra/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/anuskamishra/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2540-minimum-common-value](https://github.com/anuskamishra/Leetcode/tree/master/2540-minimum-common-value) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/anuskamishra/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3790-fruits-into-baskets-ii](https://github.com/anuskamishra/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Bit Manipulation
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/anuskamishra/Leetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/anuskamishra/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0868-push-dominoes](https://github.com/anuskamishra/Leetcode/tree/master/0868-push-dominoes) |
+| [2540-minimum-common-value](https://github.com/anuskamishra/Leetcode/tree/master/2540-minimum-common-value) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/anuskamishra/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/anuskamishra/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## String
