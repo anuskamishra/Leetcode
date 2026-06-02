@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/anuskamishra/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/anuskamishra/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/anuskamishra/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/anuskamishra/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3639-zero-array-transformation-i](https://github.com/anuskamishra/Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/anuskamishra/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/anuskamishra/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/anuskamishra/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2540-minimum-common-value](https://github.com/anuskamishra/Leetcode/tree/master/2540-minimum-common-value) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/anuskamishra/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/anuskamishra/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/anuskamishra/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Bit Manipulation
 |  |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/anuskamishra/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/anuskamishra/Leetcode/tree/master/3321-type-of-triangle) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/anuskamishra/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/anuskamishra/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3647-zero-array-transformation-iii](https://github.com/anuskamishra/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Tree
 |  |
@@ -362,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/anuskamishra/Leetcode/tree/master/0868-push-dominoes) |
 | [2540-minimum-common-value](https://github.com/anuskamishra/Leetcode/tree/master/2540-minimum-common-value) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/anuskamishra/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/anuskamishra/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/anuskamishra/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## String
 |  |
@@ -468,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/anuskamishra/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/anuskamishra/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/anuskamishra/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/anuskamishra/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3647-zero-array-transformation-iii](https://github.com/anuskamishra/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/anuskamishra/Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/anuskamishra/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
